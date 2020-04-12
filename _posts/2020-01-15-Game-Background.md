@@ -16,9 +16,9 @@ Earth 2140 basically requires the player to complete various objectives, mostly 
 
 Units and vehicles can be recruited from their respective factories. Each faction has four types of units, with an exception to the civils who don't serve any purpose but garrison. The player can create up to 5 queued units and even an infinite queue of the same unit. Unlike most strategy games, credits cannot be refunded when recruitment is cancelled and structures cannot be sold. In some missions it is possible for the player to call for reinforcements only once. Structures can only be removed with self-destruction. All structures except the Construction Center require power from power plants. Lack of power will cause buildings to operate slowly. Destruction of a power plant leaves a permanent scar on the terrain, which drains vitality of any units nearby. Certain types of buildings must be built to enable the player to build others and to recruit more types of units and vehicles, especially the Research Center. To capture an enemy structure, the player must send in enough units to overwhelm enemy units in garrison. Capturing the opposing faction's factories enables the player to make use of otherwise unavailable technology (depending on the research center progress). Guard towers and superweapon launchers cannot be captured. Most of the units and vehicles just move, attack and escort, but certain ones serve with special tasks such as mine laying, cargo carrying and others. Not every vehicle is land-based; Vehicles like submarines are sea-based and vehicles like helicopters are air-based. Air-based vehicles can travel anywhere on the map screen and while they are airborne can only be shot down by rocketry. A unique feature in the game is that a vehicle once disabled (easily accomplished with ion technology) can be reprogrammed to join the player using a HMCR repair vehicle.
 
-## Expansion packs
+## Expansion Packs
 
 Two expansion packs were released for this game:
 
-Earth 2140: Mission Pack 1
-Earth 2140: Mission Pack 2 - Final Conflict
+1. Earth 2140: Mission Pack 1
+2. Earth 2140: Mission Pack 2 - Final Conflict
