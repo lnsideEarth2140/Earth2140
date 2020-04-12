@@ -6,31 +6,26 @@ categories:
   - Game
 type: Document
 ---
-``Param	Command		Effect
- - -KR	RTHHEALTH	ausgewählte Einheit heilen
- - -KR	RTHKILL		angewählte Einheit zerstören
- - -MD	RTHMN2		doppelter Containerinhalt
- - -MD	RTHMN4		vierfacher Containerinhalt
- - -MD	RTHRSRCHE	aktuelle Erfindung ist sofort fertig
- - -MD	RTHRSRCHLL	alle Erfindungen verfügbar
- - -MS	RTHPVR		Die Panzerung und Feuerkraft von T100/ST01B werden erhöht
- - -MS	RTHSHOWMP	Karte wird komplett sichtbar
- - -MW	RTHVCTR		Sprung zum nächsten Level
- - -MW	RTHGLX##	Level ## aufrufen
- - -MW	RTHFLL		alle Levels anwählbar
- - -WW	RTHRNFRCMNT	Verstärkung kann ein zweites Mal angefordert werden
- - -WW	RTHCSHE		5000 Dollar
- - -WW	RTHCSHLL	5000 Dollar für alle Spieler (auch Computerspieler)``
 
-| Header1 | Header2 | Header3 |
+| Param | Command | Effect |
 |:--------|:-------:|--------:|
-| cell1   | cell2   | cell3   |
-| cell4   | cell5   | cell6   |
+| -KR   | RTHHEALTH   | Heal selected unit   |
+| -KR   | RTHKILL   | selected unit destroy   |
 |----
-| cell1   | cell2   | cell3   |
-| cell4   | cell5   | cell6   |
+| -MD   | RTHMN2   | double container content   |
+| -MD   | RTHMN4   | quadruple container content   |
+| -MD   | RTHRSRCHE   | current invention is ready immediately   |
+| -MD   | RTHRSRCHLL   | all inventions available  |
+| -MS   | RTHPVR   | Increases t100/ST01B armor and firepower   |
+| -MS   | RTHSHOWMP   | Map becomes completely visible   |
+| -MW   | RTHVCTR   | Jump to the next level  |
+| -MW   | RTHGLX##   | Calling Level   |
+| -MW   | RTHFLL  | all levels selectable  |
+| -WW   | RTHRNFRCMNT   | Reinforcement can be requested a second time   |
+| -WW   | RTHCSHE   | 5000 Dollar   |
+| -WW   | RTHCSHLL   | 5000 Dollar for all players (including computer players)   |
 |=====
-| Foot1   | Foot2   | Foot3
+|    |    | 
 
 1. Right click on the game in the Steam Library
 2. Select last entry "Properties"
