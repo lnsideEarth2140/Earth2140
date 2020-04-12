@@ -22,6 +22,16 @@ type: Document
  - -WW	RTHCSHE		5000 Dollar
  - -WW	RTHCSHLL	5000 Dollar für alle Spieler (auch Computerspieler)``
 
+| Header1 | Header2 | Header3 |
+|:--------|:-------:|--------:|
+| cell1   | cell2   | cell3   |
+| cell4   | cell5   | cell6   |
+|----
+| cell1   | cell2   | cell3   |
+| cell4   | cell5   | cell6   |
+|=====
+| Foot1   | Foot2   | Foot3
+
 1. Right click on the game in the Steam Library
 2. Select last entry "Properties"
 3. In the "General" tab (the first one that is displayed) click on the first button "Set start options"
